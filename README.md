@@ -1,4 +1,3 @@
-# PHP-POST-MYSQL
-PHP INSERT INTO MYSQL --> POST
+# PHP INSERT INTO MYSQL
 
-How to add data to mysql by post
+How to add data to mysql by <POST>
